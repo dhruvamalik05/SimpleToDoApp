@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I ran into a few debugging issues, but the rest of the development went pretty smooth.
+I ran into a couple debugging problems, but the rest of the development went really smooth.
 
 ## License
 
